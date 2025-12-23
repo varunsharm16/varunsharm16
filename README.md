@@ -33,7 +33,7 @@ On the bio side, I’m a 4th‑year Biochemistry student at UBC with experience 
 ## Open to
 
 - Collaborating with **researchers** who want better tools for visualization, analysis, or workflows  
-- **Open‑source** projects around AI agents, infra, or scientific tooling  
+- **Open‑source** projects around AI agents, infra, or scientific tooling (no experience with open-source yet!)
 - **Student founders** building ambitious products in AI, healthtech, or 3D/creative tools  
 
 ## Reach out
