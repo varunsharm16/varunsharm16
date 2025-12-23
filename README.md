@@ -4,13 +4,13 @@ Biochemistry student → founder and developer, building at the intersection of 
 
 ## What I'm building
 
-- 🧬 **Next‑gen molecular graphics tool – [`pymol_ai_assistant`](https://github.com/varunsharm16/pymol_ai_assistant)**  
+- 🧬 **Next‑gen molecular graphics tool – [`PyMOL AI Assistant`](https://github.com/varunsharm16/pymol_ai_assistant)**  
   High‑performance, researcher‑grade molecular visualization inspired by tools like PyMOL/ChimeraX, with a modern, extensible web stack.
 
 - 🏠 **AI‑powered home interior design app – [`Homer`](https://github.com/varunsharm16/Homer)**  
   Paste a floor plan, get an editable 3D scene, and iterate using natural‑language prompts and reference images (Three.js + React + AI vision).
 
-- 🏀 **Basketball AI app – [`Flick-`](https://github.com/varunsharm16/Flick-)**  
+- 🏀 **Basketball AI app – [`Flick AI`](https://github.com/varunsharm16/Flick-)**  
   A tool to analyze shooting mechanics and help players improve through computer vision and smart feedback.
 
 - 🤖 **Agentic developer workflows (early)**  
