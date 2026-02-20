@@ -4,7 +4,7 @@ Biochemistry student → founder and developer, building at the intersection of 
 
 ## What I'm building
 
-- 🧬 **Next‑gen molecular graphics plugin – [`Nex-Mol (A PyMOL AI Assistant)`](https://github.com/varunsharm16/pymol_ai_assistant)**  
+- 🧬 **Next‑gen molecular graphics plugin – [`Nex-Mol (A PyMOL AI Assistant)`]**  
   High‑performance, researcher‑grade molecular visualization inspired by tools like PyMOL/ChimeraX, with a modern, extensible web stack.
 
 - 🏠 **AI‑powered home interior design app – [`Homer`](https://github.com/varunsharm16/Homer)**  
