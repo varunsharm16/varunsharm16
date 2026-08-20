@@ -1,42 +1,17 @@
 ## Hi, I'm Varun 👋
 
-Biochemistry student → founder and developer, building at the intersection of **AI**, **3D graphics**, and **healthcare-adjacent** tools.
+I'm a 4th-year Biochemistry student at UBC, currently working in computational biology, proteomics, and machine learning.
 
-## What I'm building
+My research interests include protein structure and interaction modelling, geometric deep learning, and building workflows to understand biomolecular systems.
 
-- 🧬 **Chat-based molecular graphics tool – [`NexMol`](https://github.com/varunsharm16/pymol_ai_assistant)**  
-  High‑performance, researcher‑grade molecular visualization inspired by tools like PyMOL/ChimeraX, with a modern, extensible web stack.
+This GitHub is mostly my place for projects, experiments, models, and ideas I’ve worked on over time. A lot of my work is private or still in progress, but a few public things live here too.
 
-- 🏠 **AI‑powered home interior design app – [`Homer`](https://github.com/varunsharm16/Homer)**  
-  Paste a floor plan, get an editable 3D scene, and iterate using natural‑language prompts and reference images (Three.js + React + AI vision).
+### A couple projects
 
-- 🏀 **Basketball AI app – [`Flick AI`](https://github.com/varunsharm16/Flick-)**  
-  A tool to analyze shooting mechanics and help players improve through computer vision and smart feedback.
+- 🧬 **[NexMol](https://github.com/varunsharm16/pymol_ai_assistant)** — a chat-based molecular visualization tool inspired by PyMOL and ChimeraX.
+- 🏀 **[Flick AI](https://github.com/varunsharm16/Flick-)** — an early computer-vision project for basketball shooting analysis.
 
-- 🤖 **Agentic developer workflows (early)**  
-  Exploring AI systems that can reason about codebases, infrastructure, and product constraints to meaningfully augment small technical teams.
+I also enjoy building software when an idea calls itself out in my head. It usually involves something with scientific tools, AI, 3D stuff, or something based on my interests haha.
 
-## Stack and skills
-
-- **Languages:** Python, JavaScript/TypeScript, R, HTML, CSS  
-- **Frameworks & tools:** React, Next.js, Three.js, FastAPI  
-- **Domains:** 3D graphics, computer vision (early), data analysis, basic bioinformatics/molecular modeling  
-
-On the bio side, I’m a 4th‑year Biochemistry student at UBC with experience across molecular biology and computational work, now channeling that into better tools and infrastructure for technical and scientific workflows.
-
-## Currently learning
-
-- 3D rendering and scene management for complex UIs  
-- Practical computer vision for real products (not just toy demos)  
-- How to design, ship, and iterate products as a student founder  
-
-## Open to
-
-- Collaborating with **researchers** who want better tools for visualization, analysis, or workflows  
-- **Open‑source** projects around AI agents, infra, or scientific tooling (no experience with open-source yet!)
-- **Student founders** building ambitious products in AI, healthtech, or 3D/creative tools  
-
-## Reach out
-
-- 📧 Email: [varunvvsm@gmail.com](mailto:varunvvsm@gmail.com)  
-- 💼 LinkedIn: [Varun Sharma](https://www.linkedin.com/in/varun-sharma-vvs/)
+- 📧 [varunvvsm@gmail.com](mailto:varunvvsm@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/varun-sharma-vvs/)
